@@ -1,7 +1,7 @@
 {
   "name": "docstring-fold",
   "main": "./lib/docstring-fold",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Simple package to fold Python docstrings",
   "keywords": [
     "python",
