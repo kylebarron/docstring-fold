@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Fold current docstring",
+        "command": "docstring-fold:fold-current-docstring"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "docstring-fold",
+          "submenu": [
+            {
+              "label": "Fold All Docstrings",
+              "command": "docstring-fold:fold-all-docstrings"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

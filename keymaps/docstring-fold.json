@@ -1,0 +1,8 @@
+{
+  "atom-text-editor": {
+    "ctrl-alt-shift-f": "docstring-fold:fold-current-docstring"
+  },
+  ".platform-darwin atom-text-editor": {
+    "cmd-alt-shift-f": "docstring-fold:fold-current-docstring"
+  }
+}

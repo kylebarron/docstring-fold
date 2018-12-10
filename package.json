@@ -1,0 +1,25 @@
+{
+  "name": "docstring-fold",
+  "main": "./lib/docstring-fold",
+  "version": "0.1.0",
+  "description": "Simple package to fold Python docstrings",
+  "keywords": [
+    "python",
+    "docstring"
+  ],
+  "activationCommands": {
+    "atom-text-editor": [
+      "docstring-fold:fold-current-docstring"
+    ]
+  },
+  "repository": "https://github.com/kylebarron/docstring-fold",
+  "bugs": {
+    "url": "https://github.com/kylebarron/stata-exec/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
